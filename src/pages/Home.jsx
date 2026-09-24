@@ -83,7 +83,7 @@ export default function Home() {
       </div>
 
     </section>
-    <section className="max-w-4xl mx-auto px-6 py-20  bg-red-500" id='about'>
+    <section className="max-w-4xl mx-auto px-6 py-20  bg-red" id='about'>
       <h1 className="text-4xl font-bold text-black mb-2">About Me</h1>
       <div className="w-16 h-1 bg-blue-600 mb-8"></div>
 
