@@ -76,14 +76,14 @@ export default function Home() {
         <div className="w-82 h-82 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-blue-600 shadow-lg">
           <img
             src={profile}
-            alt="Your Name"
+            alt="Adeyemi's Image"
             className="w-full h-full object-cover"
           />
         </div>
       </div>
 
     </section>
-    <section className="max-w-4xl mx-auto px-6 py-20  bg-red" id='about'>
+    <section className="max-w-4xl mx-auto px-6 py-20  bg-red-500" id='about'>
       <h1 className="text-4xl font-bold text-black mb-2">About Me</h1>
       <div className="w-16 h-1 bg-blue-600 mb-8"></div>
 
